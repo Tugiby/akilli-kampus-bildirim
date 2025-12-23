@@ -29,3 +29,8 @@ Pop-Location
 ## Notlar
 - Şifre sıfırlama, Firebase üzerinden e-posta gönderir.
 - Admin rolü için ek claim/alan mantığı eklenmemiştir; varsayılan olarak tüm kullanıcılar `UserRole.user` döner.
+
+## Dokümantasyon
+- Gereksinimler ve PDF özeti: `docs/requirements.md`
+- Mimari özeti: `docs/architecture.md`
+- Ekran listesi: `docs/screens.md`
